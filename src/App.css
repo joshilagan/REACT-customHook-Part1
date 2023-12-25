@@ -1,0 +1,22 @@
+body{
+  background-color: darkgray;
+}
+
+.App {
+  margin-top: 200px;
+  text-align: center;
+}
+
+button{
+  height: 40px;
+  width: 100px;
+  border-radius: 10px;
+  border: 1px solid black;
+  margin: 5px;
+  font-size: medium;
+  cursor: pointer;
+}
+
+p{
+  font-size: xx-large;
+}
